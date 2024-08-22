@@ -24,5 +24,3 @@ If you'd like to contribute to this repository, please follow these steps:
     Update the problem index in this README file
     Submit a pull request
 
-
-
