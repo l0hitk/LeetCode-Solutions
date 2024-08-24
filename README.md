@@ -12,6 +12,8 @@ Below is an index of the LeetCode problems solved in this repository, organized 
 
 [3. Longest Substring Without Repeating Characters](https://github.com/l0hitk/LeetCode-Solutions/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters%20.md)
 
+[5. Longest Palindromic Substring](https://github.com/l0hitk/LeetCode-Solutions/blob/main/5.%20Longest%20Palindromic%20Substring%20.md)
+
 [650. 2 Keys Keyboard](https://github.com/l0hitk/LeetCode-Solutions/blob/main/650.%202%20Keys%20Keyboard%20.md) 
 
 Contributing
